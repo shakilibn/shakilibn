@@ -5,7 +5,7 @@
   learn and master Back-end Development. Looking for a challenging yet exciting career with
   a progressive company that will provide development opportunities.
   
-<a target="_blank" href="https://www.hackerrank.com/mdsh540"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a target="_blank">  <a href="https://www.linkedin.com/in/safiqul/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank" href="https://www.hackerrank.com/mdsh540"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>  <a target="_blank" href="https://www.linkedin.com/in/safiqul/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
 <!---
 shakilibn/shakilibn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
