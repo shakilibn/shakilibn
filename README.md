@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Safiqul Islam Shakil.
-- 👀 I’m interested in MERN stack.
+- 👀 I’m interested in MERN stack and MEAN stack.
 
-- I am an enthusiastic React developer with broad expertise in JavaScript and a willingness to
+- I am an enthusiastic Angular and React developer with broad expertise in JavaScript and typescript and a willingness to
   learn and master Back-end Development. Looking for a challenging yet exciting career with
   a progressive company that will provide development opportunities. And I have earned **4 stars** at **problem-solving** in **HackerRank**.
   
